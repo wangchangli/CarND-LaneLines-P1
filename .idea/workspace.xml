@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed09607-010a-4261-a566-8087b2031681" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_videos_output/solidYellowLeft.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/writeup_template.md" afterPath="$PROJECT_DIR$/writeup.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/solidWhiteCurve-after.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteCurve-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/solidWhiteRight-after.jpg" afterPath="$PROJECT_DIR$/test_images/solidWhiteRight-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve-after.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/solidYellowCurve2-after.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowCurve2-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/solidYellowLeft-after.jpg" afterPath="$PROJECT_DIR$/test_images/solidYellowLeft-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch-after.jpg" afterPath="$PROJECT_DIR$/test_images/whiteCarLaneSwitch-after.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_videos_output/challenge.mp4" afterPath="$PROJECT_DIR$/test_videos_output/challenge.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_videos_output/solidWhiteRight.mp4" afterPath="$PROJECT_DIR$/test_videos_output/solidWhiteRight.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/P1-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
     </list>
     <ignored path="CarND-LaneLines-P1.iws" />
